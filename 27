@@ -27,19 +27,13 @@
        <details>
         <summary>AUDIO</summary>
         <audio controls autoplay muted loop>
-            <source src="/[iSongs.info] 05 - Gango Renuka Thalli.mp3">
-        </audio>
-
-        </audio>
+         <source src="/[iSongs.info] 05 - Gango Renuka Thalli.mp3">
+         </audio>
        </details>
         </td>
        </tr>
-        
     </table>
-</table>
-
-
-
+</table> 
 </center>
     </body>
 </html>
